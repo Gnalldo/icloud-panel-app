@@ -1,0 +1,30 @@
+# Local/private runtime data
+config.json
+config.local.json
+mailfeed-secrets.xml
+cookie-selftest.flag
+pin-queue.txt
+panel/
+profile/
+wv2tmp/
+*.log
+*.bin
+*.nupkg
+*.zip
+
+# Local screenshots and recordings
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+*.lnk
+
+# Generated dashboard test page
+dash-test.html
+dash-test.js
+
+# OS metadata
+Thumbs.db
+desktop.ini
+.DS_Store

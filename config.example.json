@@ -1,0 +1,29 @@
+{
+  "width": 785,
+  "height": 764,
+  "radius": 14,
+  "topmost": false,
+  "pinned": false,
+  "autohide": false,
+  "showinfo": true,
+  "name": "",
+  "birthdays": [],
+  "birthdayAccounts": [],
+  "bgkind": "default",
+  "bgcolor": "#0b1220",
+  "bgimage": "",
+  "bgopacity": 100,
+  "bgoffset": 0,
+  "dash": {
+    "order": ["clock", "shortcuts", "weather", "calendar", "mail"],
+    "hidden": [],
+    "free": {},
+    "apps": [],
+    "ver": 2
+  },
+  "weather": {
+    "windows": true
+  },
+  "outlookUrl": "",
+  "zoom": 1
+}
